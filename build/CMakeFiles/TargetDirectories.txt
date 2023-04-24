@@ -1,0 +1,3 @@
+/home/anjali/Projects/nvi-idom/build/CMakeFiles/project.dir
+/home/anjali/Projects/nvi-idom/build/CMakeFiles/edit_cache.dir
+/home/anjali/Projects/nvi-idom/build/CMakeFiles/rebuild_cache.dir
